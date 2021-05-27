@@ -2,4 +2,4 @@
 CombatSim Code
 
 cd username.githu.io
-echo "CombatSIM" > index.html
+echo "CombatSim" > index.html
